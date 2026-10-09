@@ -1,0 +1,5 @@
+.claude/
+*.json.bak
+memoraebuild-backup-*.json
+Thumbs.db
+desktop.ini
